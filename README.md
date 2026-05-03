@@ -16,4 +16,4 @@ TechNova es un sistema de comercio electrónico orientado a la venta de producto
 - MySQL
 
 ## Autor
-Proyecto desarrollado por [Tu Nombre]
+Proyecto desarrollado por Luis Estrada
